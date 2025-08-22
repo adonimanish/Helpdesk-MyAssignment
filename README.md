@@ -4,6 +4,10 @@ Helpdesk - My Assignment
 This project is my implementation of the Smart Helpdesk with Agentic Triage assignment.
 Due to time constraints, the User flows (UI) are fully implemented, while Agent and Admin flows are available only at the backend API level.
 
+### Demo Video
+Watch the project walkthrough here:  
+👉 [Loom Video Demo](https://www.loom.com/share/7f363ba6a9c24a4f8f0e9d9c128e6357?sid=f44f938d-d2e4-4296-9304-6460133e4fd0)
+
 Frontend: React + Vite (User UI only)
 
 Backend: Node.js + Express + MongoDB Memory Server (in-memory DB for simplicity)
